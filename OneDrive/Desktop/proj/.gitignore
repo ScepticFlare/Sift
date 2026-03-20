@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated
+templates/preview.html
+data/
+run_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
